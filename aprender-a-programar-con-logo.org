@@ -1,0 +1,52 @@
+#+TITLE: aprender-a-programar-con-logo
+#+AUTHOR: Maxxcan Fox
+#+DATE: <2020-09-09 mié>
+#+EMAIL: maxxcan@disroot.org
+
+* Introducción
+
+* Historia de Logo
+
+* Por qué he elegido Logo
+
+* Logo y la tortuga
+
+* Introducción a Logo
+
+** Saludando
+
+** Conociendo a la tortuga
+
+** La tortuga en distintos sitios
+
+* Procedimientos
+
+** Procedimientos e instrucciones
+
+** Mensajes de error
+
+** Comandos y operaciones
+
+** Palabras y listas
+
+** Escribir nuestros propios Procedimientos
+
+* Variables en Logo
+
+** Ámbito de las Variables
+
+** Tiempo de ejecución de las Variables
+
+** Cambiando el valor de una variable
+
+** Variables Locales y globales
+
+* Predicados
+
+** Verdadero o falso
+
+* Condicionales
+
+** Conectores lógicos
+
+* Funciones de funciones
