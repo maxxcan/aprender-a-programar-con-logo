@@ -14,10 +14,15 @@
 * Introducción a Logo
 
 ** Saludando
-
 ** Conociendo a la tortuga
+** Salvando nuestro trabajo
 
 ** La tortuga en distintos sitios
+
+* Print y show
+
+
+
 
 * Procedimientos
 
@@ -30,6 +35,7 @@
 ** Palabras y listas
 
 ** Escribir nuestros propios Procedimientos
+
 
 * Variables en Logo
 
@@ -50,3 +56,13 @@
 ** Conectores lógicos
 
 * Funciones de funciones
+** For
+** Map
+** Filter
+** Reduce
+** Funciones anónimas
+** Colección de funciones de mayor nivel
+*** Map.se
+*** Forearch
+** Invocación repetida. Cascada
+** Ejemplo con Mastermind
