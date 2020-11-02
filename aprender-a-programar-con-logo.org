@@ -19,14 +19,34 @@
 
 ** La tortuga en distintos sitios
 
-* Print y show
-
-
-
-
 * Procedimientos
 
+Logo es un lenguaje muy poderoso. Pero para poder tomar ventajas de ese poder tenemos que entender las ideas centrales de Logo: Procedimientos y evaluación. 
+
+
 ** Procedimientos e instrucciones
+
+Vamos a ver como funcional la instrucción *print*. Por ejemplo si escribimos:
+
+: print 17
+
+Logo responderá escribiendo 17 
+
+La palabra *print* es el nombre de un *procedimiento*, el cual es una pieza del programa que tiene una tarea en particular. 
+
+En otros lengaujes tenemos la idea la existencia de diferentes declaraciones para hacer las cosas. Cada declaración tiene su propia sintaxis, puntuación y organización. En Logo es muy diferente. No hay diferentes tipos de instrucciones; todo en Logo está hecho por el uso de procedimientos.
+
+En logo se empieza con 200 procedimientos, llamados procedimientos primitivos.
+
+Cada procedimiento puede aceptar un número particular de /entradas/. Una entrada es una pieza de información. Puede ser un número, pero Logo puede manejar otros tipos de información. Cada procedimiento requiere diferentes números de entradas, incluso no requerir ninguna.
+
+*** Términos técnicos
+
+Una /instrucción/ es lo que escribimos en Logo para decirle que haga algo. *Print 17* es un ejemplo de una instrucción. Una instrucción tiene que contener suficiente información para especificarle a Logo exactamente lo que queremos qu haga. 
+
+Un /procedimiento/ es como una receta o una técnica para llevar a cabo cierto tipo de tarea. Un procedimiento contiene información sore como hacer algo, pero el procedimiento no toma la acción por sí mismo, al igual que una receta en un libro no puede hornear un pastel por sí mismo. Alguien tiene que llevar a cabo la receta. En el mundo de Logo algo tiene que invocar un procedimiento. Invocar un procedimiento significa llevar a cabo lo que el procedimiento dice. Los procedimientos son invocados por instrucciones. La instrucción que damos solo ahora invoca el procedimiento llamado print.
+
+Si una instrucción es hecha de nombres de procedimientos, y si los procedimientos invocados por la instrucción son hechos de más instrucciones, por qué la computadora no entra en un círculo vicioso? Esta cuestión es como los diccionarios: Cuando buscamos la definición de una palabra, lo que encontramos son más palabras. 
 
 ** Mensajes de error
 
@@ -34,7 +54,13 @@
 
 ** Palabras y listas
 
+** Print y show
+
+
+
+
 ** Escribir nuestros propios Procedimientos
+
 
 
 * Variables en Logo
